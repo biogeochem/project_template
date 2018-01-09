@@ -30,5 +30,5 @@ All files should follow the standardized naming convention outlined below.
 ## Repository use
 Students or collaborators wishing to use data from a repo must abide by the following guidelines.
 
-*For more information about project maintenance, please contact **Megan Larsen** at mlarsen@wlu.ca or **Jason Venkiteswaran** at jvenkiteswaran@wlu.ca.*
+*For more information about project maintenance, please contact **Kateri Salk** at krsalkgu@uwaterloo.ca or **Jason Venkiteswaran** at jvenkiteswaran@wlu.ca.*
 
