@@ -1,17 +1,14 @@
 # Project Template Repository
 This repository is designed to serve as a template for the curation and maintenance of data within a specific project. Projects may either be a thesis chapter or a manuscript publication. 
 
-## Project structure
-All project repos are named according to the associated grant and labelled with a short informative tag for the project (e.g. grant_projectname'). In addition, they contain the following folders:
+## Using this template
+1. Create and clone the template repository
+2. Move this `README.md` to the `docs` folder.
+3. Complete metadata in `project_template-README.md` *and* rename it `README.md`
+3. Keep metadata up-to-date
 
-1. **data |** will contain separate folders for raw, cleaned, and processed data, as well as data from databases incorporated as submodules. For more information related to reading in and using submodules, see `UsingSubmodules.md`.
-2. **code |** R scripts for processing and analyzing project information
-3. **bin |** R scripts containing outside derived code
-4. **src |** R scripts containing user derived code
-5. **docs |** project notes, etc.
-6. **Figs_Tables |** saved figures and tables from analysis
-
-All databases should also contain a **README.md** file which details the following information:
+## Minimum metadata requirements
+All repositories should also contain a `README.md` file which details the following metadata:
 
 1. Project title
 2. Lead HQP
@@ -21,7 +18,20 @@ All databases should also contain a **README.md** file which details the followi
 6. Data sources
 7. Funding sources
 
-See `project_template-README.md` for an example of the information required in a project repository.
+The `project_template-README.md` file will form the template for the information required in a project repository.  **Complete this file once you have created a new project**
+
+
+## Project structure
+All project repos are named according to the associated grant and labelled with a short informative tag for the project (e.g. grant_projectname'). In addition, they contain the following folders:
+
+1. **data |** will contain separate folders for `raw_data`, `clean_data`, and `processed_data`, as well as data from databases incorporated as submodules. For more information related to reading in and using submodules, see `Using_Submodules.md`.
+2. **code |** R scripts and other code for processing and analyzing project information
+3. **bin |** R scripts and other code containing outside derived code
+4. **src |** R scripts and other containing user derived code
+5. **docs |** project notes, etc.
+6. **Figs_Tables |** saved figures and tables from analysis
+
+
 
 ## Creating a new project for storage
 
@@ -34,8 +44,12 @@ See `project_template-README.md` for an example of the information required in a
 
 See also https://help.github.com/articles/duplicating-a-repository/.
 
-## Naming conventions
-All files should follow the standardized naming convention outlined below.
+## Naming and formatting conventions
+All files should follow the standardized naming convention outlined below:
+
+- Dates: YYYY-MM-DD
+- Text: UTF-8 encoding
+- File names: descriptive and searchable
 
 
 ## Repository use
