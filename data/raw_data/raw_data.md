@@ -1,3 +1,3 @@
 # Raw Data
 
-placeholder file
+Information about documents added to this folder.
