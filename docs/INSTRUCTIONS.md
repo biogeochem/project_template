@@ -19,10 +19,8 @@ All project repos are named according to the associated grant and labelled with 
 
 1. **data |** will contain separate folders for `raw_data`, `clean_data`, and `processed_data`, as well as data from databases incorporated as submodules. For more information related to reading in and using submodules, see `docs/using_ubmodules.md`.
 2. **code |** scripts and other code for processing and analyzing project information
-3. **bin |** scripts and other code containing outside derived code
-4. **src |** scripts and other containing user derived code
-5. **docs |** project notes, etc.
-6. **Figs_Tables |** saved figures and tables from analysis
+3. **docs |** project notes, etc.
+4. **output |** saved outputs (e.g. figures and tables) from analysis
 
 
 ## Creating a new project for storage from the GitHub website
