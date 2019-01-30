@@ -63,6 +63,6 @@ Scripts for processing raw data into cleaned data, outside derived code, and use
 
 Project notes, other documentation, etc.
 
-## output
+### output
 
 Figures and tables produced from analysis.
