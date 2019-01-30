@@ -57,20 +57,12 @@ Processes data in formats for long-term storage.
 
 ### code
 
-Scripts for processing raw data into cleaned data.
-
-### bin
-
-Scripts containing outside derived code.
-
-### src
-
-Scripts containing user derived code.
+Scripts for processing raw data into cleaned data, outside derived code, and user derived code.
 
 ### docs
 
 Project notes, other documentation, etc.
 
-## Figs_Tables
+## output
 
 Figures and tables produced from analysis.
