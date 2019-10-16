@@ -37,9 +37,9 @@ All project repos are named according to the associated grant and labelled with 
 
 6. Click the _Create repository from template_ button.
 
-5. Fork the new repository from the `biogeochem` organization to your user account, by clicking the _Fork_ button at the top right.
+7. Fork the new repository from the `biogeochem` organization to your user account, by clicking the _Fork_ button at the top right.
 
-6. Clone the repo from your user account. After forking the repo you will be forward to your own fork. Click `Clone or download`, copy the URL and use software such as [GitKraken](https://www.gitkraken.com/) or [SourceTree](https://www.sourcetreeapp.com/). Alternatively, use the command line (`git clone …`).
+8. Clone the repo from your user account. After forking the repo you will be forward to your own fork. Click _Clone or download_, copy the URL and use software such as [GitKraken](https://www.gitkraken.com/) or [SourceTree](https://www.sourcetreeapp.com/). Alternatively, use the command line (`git clone …`).
 
 
 ## Naming and formatting conventions
