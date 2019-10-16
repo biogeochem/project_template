@@ -6,19 +6,19 @@ Provide a brief description of the project - 150-300 words.
 
 ## Highly Qualified Personnel
 
-Name, Institution, email, ORCID 0000-0000-0000-0000
+- Name, Institution, email, ORCID 0000-0000-0000-0000
 
 ## Principle Investigators
 
-Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
+- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
 
 ## Data sources
 
-Provide links to any data used from external providers and/or submodules and their associated management source (e.g. IISD-ELA, OMOECC).
+- Provide links to any data used from external providers and/or submodules and their associated management source (e.g. IISD-ELA, OMOECC).
 
 ## Funding sources
 
-List your funding sources, grant names, and grand numbers of applicable.
+- List your funding sources, grant names, and grant numbers as applicable.
 
 ## Keywords
 
