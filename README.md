@@ -2,7 +2,7 @@
 
 ## Summary
 
-Provide a brief description of the project - 150-300 words.
+Provide a brief description of the project - 150 words.
 
 ## Highly Qualified Personnel
 
@@ -31,6 +31,11 @@ List keywords separated by commas
 - Geo Bounding Box: North Lat
 - Geo Bounding Box: South Lat
 
+## Temporal Coverage
+
+- Start: YYYY-MM-DD
+- End: YYYY-MM-DD
+
 ## Additional information and support
 
 - Sensitive Data Flag - Human Participants: YES or NO
@@ -53,7 +58,7 @@ Clean data in formats for long-term storage. Modified data with the appropriate 
 
 ### data/processed_data
 
-Processes data in formats for long-term storage.
+Processed data in formats for long-term storage.
 
 ### code
 
