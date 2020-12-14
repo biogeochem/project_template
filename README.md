@@ -12,6 +12,14 @@ Provide a brief description of the project - 150 words.
 
 - Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
 
+## Primary Contact  
+
+Who to contact if there are questions/comments regarding project.
+
+## Producer  
+
+Person or organization with the financial and/or administrative responsibility over the dataset.
+
 ## Data sources
 
 - Provide links to any data used from external providers and/or submodules and their associated management source (e.g. IISD-ELA, OMOECC).
@@ -43,6 +51,10 @@ List keywords separated by commas
 - Sensitive Data Flag - Government Partnerships: YES or NO
 - Sensitive Data Flag - Industry Partnerships: YES or NO
 - Access Restrictions
+
+## Software  
+
+The software (and version) used to create the dataset.  
 
 ## Repo content information
 
