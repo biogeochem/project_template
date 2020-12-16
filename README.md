@@ -14,11 +14,11 @@ Provide a brief description of the project - 150 words.
 
 ## Primary Contact  
 
-Who to contact if there are questions/comments regarding project.
+- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
 
 ## Producer  
 
-Person or organization with the financial and/or administrative responsibility over the dataset.
+- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
 
 ## Data sources
 
